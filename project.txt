@@ -1,0 +1,16 @@
+my first project is student record management system.
+the moto of this project is to managing the details,profiles ,courses,
+of each and every student of university. 
+in this project for the user interface i used java gui framework. 
+and database to storing the rocord of the student is mysql.
+ with java jdbc connectivity.
+functionality used  in these project  is
+1-managing the information of profiles
+2-used admin username and password for security purpose.
+3-it tracks all the information  of fees,courses etc.
+
+
+second project is Banking  system. the objective of this project is to
+provide a secure system. in this system any user can transfer their 
+amount from account to another account. i  maintained these system 
+password protected and it  allows only authorized user to  access.
